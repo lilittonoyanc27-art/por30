@@ -1,0 +1,6 @@
+{
+  "name": "Pretérito Perfecto con Pedro",
+  "description": "Ինտերակտիվ հայերեն-իսպաներեն մարզիչ և 3D խաղ Pedro-ի հետ՝ Pretérito Perfecto անցյալ ժամանակաձևը սովորելու համար։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
